@@ -14,4 +14,5 @@
 * masala
 * green chilli
 * Ghee
+* salt
 
